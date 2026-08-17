@@ -30,5 +30,5 @@ require (
 
 require (
 	cyphar.com/go-pathrs v0.2.4 // indirect
-	github.com/cilium/ebpf v0.17.3 // indirect
+	github.com/cilium/ebpf v0.22.0 // indirect
 )
